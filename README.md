@@ -15,7 +15,8 @@ Untuk password sendiri jika tidak memiliki panjang 6 karakter akan terjadi seper
 untuk membuat icon mata di textfield password dan agar icon mata tersebut dapat ditekan untuk menampilkan dan menyembunyikan teks password. Pertama - tama dapat kode seperti dibawah dan kode tersebut ditambahkan pada file register.dart: <br>
 ![Screenshot](images/latihan2-visible-password2.1.png)
 
-setelah menambahkan kode tersebut, pada textfield dapat menambahkan kode seperti pada gambar dibawah didalam kotak merah:<br> 
+setelah menambahkan kode tersebut, pada textfield dapat menambahkan kode seperti pada gambar dibawah didalam kotak merah:
+<br> 
 ![Screenshot](images/latihan2-visible-password2.2.png)
 
 untuk hasilnya sendiri dapat dilihat pada gambar dibawah, pada 2 gambar dibawah dapat dilihat ketika icon mata tidak ditekan teks password akan berbentuk bulat - bulat hitam, ketika ditekan teks akan muncul.<br>
