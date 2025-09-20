@@ -38,7 +38,9 @@ untuk hasil dari animasi tersebut dapat dilihat pada file berformat .gif dibawah
 Before:
 ![Gif](images/latihan%203%20-%20hero%20before.gif)
 
+
 After:
+
 ![Screenshot](images/latihan%203%20-%20hero%20after.gif)
 
 ## Simpan Sesi Login
